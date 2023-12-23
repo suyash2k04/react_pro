@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
 
-                    <img src={Payment} />
+                    <img src={Payment} alt="payment"/>
                 </div>
             </div>
         </div>
